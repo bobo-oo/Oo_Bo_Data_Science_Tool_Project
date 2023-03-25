@@ -1,1 +1,3 @@
-# Oo_Bo_Data_Science_Tool_Project
+# Sentiment Analysis of Covid-19 related Tweets - NLP 
+
+Objective: To apply an ML or DL approach to recognise the intent of tweets from the given dataset Description: Sentiment analysis of Tweets related to the Covid-19 pandemic is a multi-label text classification task. Since the outbreak of coronavirus, it has affected more than 180 countries with massive losses in the economy and jobs globally. The research on people’s feelings is essential for keeping mental health and informed about Covid-19.
